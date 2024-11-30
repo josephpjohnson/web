@@ -24,7 +24,7 @@ author:
   avatar           : "joseph_photo.jpg"
   name             : "Joseph P J"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Research Associate"
   location         : "Mohali"
   employer         : "IISER Mohali"
   uri              : # URL
@@ -32,7 +32,7 @@ author:
 
   # Academic websites
   arxiv            : "https://arxiv.org/search/gr-qc?searchtype=author&query=Johnson,+J+P"
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=JK0mBJ8AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : "https://orcid.org/0000-0003-4618-2092"
   semantic         : # URL
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : " "
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
