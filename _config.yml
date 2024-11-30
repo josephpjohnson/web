@@ -8,10 +8,10 @@ h# Welcome to Jekyll!
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Joseph P J / Web Page"
-title_separator          : "-"
+title                    : "Home"
+title_separator          : " "
 name                     : &name "Joseph P J"
-description              : &description "personal description"
+description              : &description "Academic webpage"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
