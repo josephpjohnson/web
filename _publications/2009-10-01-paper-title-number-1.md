@@ -7,7 +7,8 @@ excerpt: 'This paper is about the number 1. The number 2 is left for future work
 date: 2022-01-17
 venue: 'Journal of Cosmology and Astroparticle Physics'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://github.com/josephpjohnson/web/tree/master/files/JCAP01(2022)024_DEDM2.pdf'
+#paperurl: 'https://github.com/josephpjohnson/web/tree/master/files/JCAP01(2022)024_DEDM2.pdf'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1475-7516/2022/01/024'
 citation: 'Joseph P. Johnson, Archana Sangwan and S. Shankaranarayanan, JCAP 01 024 (2022)'
 ---
 
