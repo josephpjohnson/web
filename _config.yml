@@ -12,7 +12,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name "Joseph P J"
 description              : &description "Research Associate at IISER MOhali"
-url                      : https://josephpjohnson.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://josephpjohnson.github.io/web/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "web/josephpjohnson.github.io"
 
