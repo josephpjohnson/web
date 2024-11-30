@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "Observational constraints and predictions of the interacting dark sector with field-fluid mapping"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
