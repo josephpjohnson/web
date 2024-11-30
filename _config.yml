@@ -9,9 +9,9 @@
 locale                   : "en-US"
 title                    : "Home"
 title_separator          : "|"
-name                     : &name "Kristian López Vargas"
+name                     : &name "Joseph P J"
 
-description              : &description "KLO's academic page"
+description              : &description "JPJ's academic page"
 
 url                      : https://kmlv.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 
@@ -87,9 +87,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kristian López Vargas"
-  avatar           : "Avatar.jpg"
-  bio              : "Associate professor of economics at the University of California, Santa Cruz"
+  name             : "Joseph P J"
+  avatar           : "joseph_photo.jpg"
+  bio              : "Research Associate at IISER Mohali"
   location         :
   employer         :
   googlescholar    : "https://scholar-google-com.oca.ucsc.edu/citations?user=-eejuuUAAAAJ&hl=en"
