@@ -12,19 +12,7 @@ paperurl: 'https://iopscience.iop.org/article/10.1088/1475-7516/2022/01/024'
 citation: 'Joseph P. Johnson, Archana Sangwan and S. Shankaranarayanan, JCAP 01 024 (2022)'
 ---
 
-We consider an interacting field theory model that describes the interaction be-
-tween dark energy-dark matter interaction. Only for a specific interaction term, this in-
-teracting field theory description has an equivalent interacting fluid description. For inverse
-power law potentials and linear interaction function, we show that the interacting dark sector
-model with field-fluid mapping is consistent with four cosmological data sets — Hubble pa-
-rameter measurements (Hz), Baryonic Acoustic Oscillation data (BAO), Supernova Type Ia
-data (SN), and High redshift HII galaxy measurements (HIIG). More specifically, these data
-sets prefer a negative value of interaction strength in the dark sector and lead to consistent
-best-fit values of Hubble constant and other cosmological parameters. Having established
-that this interacting field theory model is consistent with cosmological observations, we ob-
-tain quantifying tools to distinguish between the interacting and non-interacting dark sector
-scenarios. We focus on the variation of the scalar metric perturbed quantities as a function of
-redshift related to structure formation, weak gravitational lensing, and the integrated Sachs-
-Wolfe effect. We show that the difference in the evolution becomes significant for z < 20, for
-all length scales, and the difference peaks at smaller redshift values z < 5. We then discuss
-the implications of our results for the upcoming missions.
+We consider an interacting field theory model that describes the interaction between dark energy-dark matter interaction. Only for a specific interaction term, this interacting field theory description has an equivalent interacting fluid description. For inverse power law potentials and linear interaction function, we show that the interacting dark sector
+model with field-fluid mapping is consistent with four cosmological data sets — Hubble parameter measurements (Hz), Baryonic Acoustic Oscillation data (BAO), Supernova Type Ia data (SN), and High redshift HII galaxy measurements (HIIG). More specifically, these data sets prefer a negative value of interaction strength in the dark sector and lead to consistent
+best-fit values of Hubble constant and other cosmological parameters. Having established that this interacting field theory model is consistent with cosmological observations, we obtain quantifying tools to distinguish between the interacting and non-interacting dark sector scenarios. We focus on the variation of the scalar metric perturbed quantities as a function of
+redshift related to structure formation, weak gravitational lensing, and the integrated Sachs-Wolfe effect. We show that the difference in the evolution becomes significant for z < 20, for all length scales, and the difference peaks at smaller redshift values z < 5. We then discuss the implications of our results for the upcoming missions.
