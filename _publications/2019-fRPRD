@@ -3,8 +3,8 @@ title: "Low-energy modified gravity signatures on the large-scale structures"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-fRPRD
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2022-01-17
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2019-10-15
 venue: 'Journal of Cosmology and Astroparticle Physics'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://github.com/josephpjohnson/web/tree/master/files/JCAP01(2022)024_DEDM2.pdf'
@@ -12,7 +12,12 @@ paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.083526'
 citation: 'Joseph P. Johnson and S. Shankaranarayanan, PHYSICAL REVIEW D 100, 083526 (2019)'
 ---
 
-We consider an interacting field theory model that describes the interaction between dark energy-dark matter interaction. Only for a specific interaction term, this interacting field theory description has an equivalent interacting fluid description. For inverse power law potentials and linear interaction function, we show that the interacting dark sector
-model with field-fluid mapping is consistent with four cosmological data sets — Hubble parameter measurements (Hz), Baryonic Acoustic Oscillation data (BAO), Supernova Type Ia data (SN), and High redshift HII galaxy measurements (HIIG). More specifically, these data sets prefer a negative value of interaction strength in the dark sector and lead to consistent
-best-fit values of Hubble constant and other cosmological parameters. Having established that this interacting field theory model is consistent with cosmological observations, we obtain quantifying tools to distinguish between the interacting and non-interacting dark sector scenarios. We focus on the variation of the scalar metric perturbed quantities as a function of
-redshift related to structure formation, weak gravitational lensing, and the integrated Sachs-Wolfe effect. We show that the difference in the evolution becomes significant for z < 20, for all length scales, and the difference peaks at smaller redshift values z < 5. We then discuss the implications of our results for the upcoming missions.
+A large number of dark energy and modified gravity models lead to the same expansion history of the
+Universe, hence making it difficult to distinguish them from observations. To make the calculations
+transparent, we consider fðRÞ gravity with a pressureless matter without making any assumption about the
+form of f(R). Using the late-time expansion history realizations constructed by Shafieloo et al. [Phys. Rev.
+D 98, 083526 (2018)], we explicitly show for any fðRÞ model that the Bardeen potentials Ψ and Φ evolve
+differently. For an arbitrary fðRÞ model that leads to late-time accelerated expansion, we explicitly show
+that |Ψ + Φ| and its time derivative evolves differently than the ΛCDM model at lower redshifts. We show
+that the Ψ/Φ has significant deviation from unity for larger wave numbers. We discuss the implications of
+the results for the cosmological observations.
