@@ -1,0 +1,27 @@
+---
+title: "Cosmological perturbations in the interacting dark sector: Mapping fields and fluids"
+collection: publications
+category: manuscripts
+permalink: /publication/2021-01-06-DEDM1
+#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+date: 2021-01-06
+venue: 'Physical Review D'
+#slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
+#paperurl: 'https://github.com/josephpjohnson/web/tree/master/files/JCAP01(2022)024_DEDM2.pdf'
+paperurl: 'https://iopscience.iop.org/article/10.1088/1475-7516/2022/01/024'
+citation: 'Joseph P. Johnson and S. Shankaranarayanan, PHYSICAL REVIEW D 103, 023510 (2021)'
+---
+
+There is no unique way to describe the dark energy–dark matter interaction, as we have little information
+about the nature and dynamics of the dark sector. Hence, in many of the phenomenological dark matter
+fluid interaction models in the literature, the interaction strength Q_ν in the dark sector is introduced by
+hand. Demanding that the interaction strength Q ν in the dark sector must have a field theory description, we
+obtain a unique form of the interaction strength. We show the equivalence between the fields and fluids for
+the f(R, χ) model where f is an arbitrary, smooth function of R and a classical scalar field χ, which
+represents dark matter. Up to first order in perturbations, we show that the one-to-one mapping between the
+classical field theory description and the phenomenological fluid description of interacting dark energy
+and dark matter exists only for this unique form of interaction. We then classify the interacting dark
+energy models considered in the literature into two categories based on the field-theoretic description.
+We introduce a novel autonomous system and its stability analysis for the general interacting dark sector.
+We show that the dark-energy-dominated epoch occurs earlier than the noninteracting systems for a specific
+scalar field potential and a range of coupling strengths.
