@@ -3,7 +3,7 @@ title: "Low-energy modified gravity signatures on the large-scale structures"
 collection: publications
 category: manuscripts
 permalink: /publication/2019-fRPRD
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: ''
 date: 2019-10-15
 venue: 'Journal of Cosmology and Astroparticle Physics'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
