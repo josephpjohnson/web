@@ -1,0 +1,14 @@
+---
+title: "Inflation with f (R, &phi) in Jordan frame"
+collection: publications
+category: manuscripts
+permalink: /publication/2018-06-28-fRphi
+#excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+date: 2018-06-28
+venue: 'General Relativity and Gravitation '
+#slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
+paperurl: 'https://link.springer.com/article/10.1007/s10714-018-2410-4'
+citation: 'Jose Mathew, Joseph P. Johnson2, S. Shankaranarayanan, Gen. Rel. Grav. 50, 90. (2018)'
+---
+
+We consider an f(R) action that is non-minimally coupled to a massive scalar field. The model closely resembles scalar–tensor theory and by conformal transformation can be transformed to Einstein frame. To avoid the ambiguity of the frame dependence, we obtain an exact analytical solution in Jordan frame and show that the model leads to a period of accelerated expansion with an exit. Further, we compute the scalar and tensor power spectrum for the model and compare them with observations.
