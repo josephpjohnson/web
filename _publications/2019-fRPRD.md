@@ -1,7 +1,7 @@
 ---
 title: "Low-energy modified gravity signatures on the large-scale structures"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2019-fRPRD
 excerpt: ''
 date: 2019-10-15
