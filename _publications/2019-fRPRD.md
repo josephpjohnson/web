@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2019-fRPRD
 excerpt: ''
 date: 2019-10-15
-venue: 'Journal of Cosmology and Astroparticle Physics'
+venue: 'Physical Review D'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 #paperurl: 'https://github.com/josephpjohnson/web/tree/master/files/JCAP01(2022)024_DEDM2.pdf'
 paperurl: 'https://journals.aps.org/prd/abstract/10.1103/PhysRevD.100.083526'
